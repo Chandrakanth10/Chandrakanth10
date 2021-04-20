@@ -6,6 +6,15 @@
 [![Twitter Badge](https://img.shields.io/badge/-@iamkanth10-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamkanth10)](https://twitter.com/iamkanth10)
 [![Resume Badge](https://img.shields.io/badge/-My_Resume-47CCCC?style=for-the-badge&logo=files&logoColor=white&color=blueviolet&link=https://jessicalim.me)](https://jessicalim.me)
 
+Welcome to my profile. I'm a final year student pursuing Bachelors's in Electronics and Communication Engineering from VIT University,India.
+
+## More About Me:-
+- 🌱 I’m currently learning **Data Structure and Algorithms**
+
+- 💬 Ask me about **Python Programming Language**
+
+- 📄 Know about my experiences [www.google.com](www.google.com)
+
 
 
 
