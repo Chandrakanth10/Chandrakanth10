@@ -12,4 +12,4 @@
 
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrakanth10&show_icons=true&locale=en&layout=compact" alt="chandrakanth10" />
 
-<img img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrakanth10&show_icons=true&locale=en" alt="chandrakanth10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrakanth10&show_icons=true&locale=en" alt="chandrakanth10" />
