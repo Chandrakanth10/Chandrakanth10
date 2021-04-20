@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a final year student pursuing Bachelors's in Electronics and Communication Engineering 🎓 from VIT University 🏛.
+
+
 
 <!--
 **Chandrakanth10/Chandrakanth10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
