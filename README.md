@@ -15,6 +15,6 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandrakanth10&show_icons=true&locale=en&hide_border=true" alt="chandrakanth10" /></p>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrakanth10&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="chandrakanth10" />
 
 </details>
