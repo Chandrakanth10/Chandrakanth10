@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chandra Kanth</h1>
-<p align="left"> <a href="https://twitter.com/iamkanth10" target="blank"><img src="https://img.shields.io/twitter/follow/iamkanth10?logo=twitter&style=for-the-badge" alt="iamkanth10" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+[![Linkedin Badge](https://img.shields.io/badge/-ChandraKanth-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrakanth-10/)](https://www.linkedin.com/in/chandrakanth-10/)
+[![Gmail Badge](https://img.shields.io/badge/-ChandraKanth-c14438?&style=for-the-badge&logo=Gmail&color=white&link=mailto:chandrakanthpuligundla@gmail.com)](mailto:chandrakanthpuligundla@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-ChandraKanth-c14438?&style=for-the-badge&logo=leetcode&logoColor=black&color=brightgreen&link=https://leetcode.com/chandrakanthpuligundla/)](https://leetcode.com/chandrakanthpuligundla/)
+[![Twitter Badge](https://img.shields.io/badge/-@iamkanth10-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamkanth10)](https://twitter.com/iamkanth10)
 
-- 💬 Ask me about **Python Programming Language**
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
