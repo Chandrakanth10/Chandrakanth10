@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋, This is Chandra Kanth...!
 I'm a final year student pursuing Bachelors's in Electronics and Communication Engineering 🎓 from VIT University 🏛.
 
 
