@@ -4,5 +4,5 @@ I'm a final year student pursuing Bachelors's in Electronics and Communication E
 - 🌱 I’m currently learning Data Structurs and Algorithms 
 - 💬 Ask me about Python programming and Algorithms 
 
-https://github-readme-stats.vercel.app/api?username=Chandrakanth10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src= "https://github-readme-stats.vercel.app/api?username=Chandrakanth10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
