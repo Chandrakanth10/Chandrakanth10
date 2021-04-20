@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="left">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraKanth10&theme=dark">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraKanth10&theme=dark" style="max-width:100%;">
 </p>
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChandraKanth10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChandraKanth10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="max-width:100%;"/></p>
