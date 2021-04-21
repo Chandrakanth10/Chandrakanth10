@@ -19,3 +19,10 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
 
 ## 💻 My Tech Stack
 <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+# [GitHub Stats Visualization](https://github.com/Chandrakanth10/github-stats)
+
+<a href="https://github.com/chandrakanth10/github-stats">
+
+![](https://github.com/chandrakanth10/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/chandrakanth10/github-stats/blob/master/generated/languages.svg)
