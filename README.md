@@ -39,15 +39,13 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrakanth10&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=chandrakanth10&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakanth10&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-</details>
+<p align=center>
+  <a href="https://github.com/Chandrakanth10/github-readme-stats" title="Go to Source">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Chandrakanth10&show_icons=true&theme=vision-friendly-dark">
+  </a>
+  <a href="https://github.com/Chandrakanth10/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakanth10&langs_count=8&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</p>
 
-<hr/>
-<br/>
 
