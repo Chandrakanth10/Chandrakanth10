@@ -21,14 +21,14 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
 
 <table>
 <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
   
 <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.mysql.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
