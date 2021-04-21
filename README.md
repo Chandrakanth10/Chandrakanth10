@@ -18,11 +18,22 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
 
 
 ## 💻 My Tech Stack
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# [GitHub Stats Visualization](https://github.com/Chandrakanth10/github-stats)
+<table>
+<td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  
+<td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+  
+  </tr>
+</table>
 
-<a href="https://github.com/chandrakanth10/github-stats">
-
-![](https://github.com/chandrakanth10/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/chandrakanth10/github-stats/blob/master/generated/languages.svg)
