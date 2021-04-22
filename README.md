@@ -38,8 +38,6 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
 </table>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
-  <summary><b>⚙️ Github Stats</b></summary>
 <p align=center>
   <a href="https://github.com/Chandrakanth10/github-readme-stats" title="Go to Source">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Chandrakanth10&show_icons=true&theme=vision-friendly-dark">
