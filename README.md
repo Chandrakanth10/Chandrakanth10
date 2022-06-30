@@ -40,8 +40,8 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-[![Chandrakanth Puligundla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandrakanth10)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakanth10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Chandrakanth Puligundla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandrakanth10)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakanth10&layout=compact)]
 </details>
 
 
