@@ -37,15 +37,11 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
   </tr>
 </table>
 
-<h2>ℹ️ &nbsp;Github Info</h2>
-<p align=center>
-<img height="180em" src="https://github-readme-stats.Chandrakanth10.vercel.app/api?username=Chandrakanth10&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
-  <a href="https://github.com/Chandrakanth10/github-readme-stats" title="Go to Source">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Chandrakanth10&show_icons=true&theme=vision-friendly-dark">
-  </a>
-  <a href="https://github.com/Chandrakanth10/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakanth10&langs_count=8&layout=compact&theme=vision-friendly-dark" />
-  </a>
-</p>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
+<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
+</details>
 
 
