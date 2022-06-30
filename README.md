@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Kanth</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Chandra_Kanth-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Chandrakanth10/)](https://www.linkedin.com/in/Chandrakanth10/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chandra_Kanth-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Chandrakanth10/)](https://www.linkedin.com/in/chandrakanth-10/)
 [![Gmail Badge](https://img.shields.io/badge/-Chandra_Kanth-c14438?&style=for-the-badge&logo=Gmail&color=white&link=mailto:chandrakanthpuligundla@gmail.com)](mailto:chandrakanthpuligundla@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-Chandra_Kanth-c14438?&style=for-the-badge&logo=leetcode&logoColor=black&color=brightgreen&link=https://leetcode.com/chandrakanthpuligundla/)](https://leetcode.com/chandrakanthpuligundla/)
 [![Twitter Badge](https://img.shields.io/badge/-@iamkanth10-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamkanth10)](https://twitter.com/iamkanth10)
@@ -37,11 +37,13 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
   </tr>
 </table>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-[![Chandrakanth Puligundla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandrakanth10)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakanth10&layout=compact)]
-</details>
-
+<h2>ℹ️ &nbsp;Github Info</h2>
+<p align=center>
+  <a href="https://github.com/Chandrakanth10/github-readme-stats" title="Go to Source">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Chandrakanth10&show_icons=true&theme=vision-friendly-dark">
+  </a>
+  <a href="https://github.com/Chandrakanth10/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakanth10&langs_count=8&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</p>
 
