@@ -40,7 +40,7 @@ Welcome to my profile. I'm a final year student pursuing Bachelors's in Electron
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.Chandrakanth10.vercel.app/api?username=Chandrakanth10&show_icons=true&locale=en&hide_border=true" alt="Chandrakanth10" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandrakanth10)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.Chandrakanth10.vercel.app/api/top-langs?username=Chandrakanth10&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Chandrakanth10"/>
 </details>
 
