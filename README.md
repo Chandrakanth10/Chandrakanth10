@@ -2,13 +2,13 @@
   <img
     width="100%"
     src="./assets/profile-banner.svg"
-    alt="Chandrakanth Puligundla - Python, TypeScript, Automation, Developer Tools"
+    alt="Chandrakanth Puligundla - Automation, Developer Tools, Web Systems"
   />
 </div>
 
 <p align="center">
-  Based in Tempe, Arizona. I build practical software with Python, TypeScript,
-  clean interfaces, and product-minded engineering habits.
+  Software developer in Tempe, Arizona, building automation, developer tools,
+  and polished web experiences with Python and TypeScript.
 </p>
 
 <p align="center">
