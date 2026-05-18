@@ -7,19 +7,20 @@
 </div>
 
 <p align="center">
-  Software developer in Tempe, Arizona, building automation, developer tools,
-  and polished web experiences with Python and TypeScript.
+  Tempe-based developer building automation, developer tools, and web apps with Python + TypeScript.
 </p>
 
 <p align="center">
   <a href="mailto:chandrakanthpuligundla@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=2563EB&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chandrakanth" />
+    <img src="./assets/button-email.svg" alt="Email Chandrakanth" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/chandrakanthpuligundla/">
-    <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=F59E0B&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+    <img src="./assets/button-leetcode.svg" alt="LeetCode profile" />
   </a>
+  &nbsp;
   <a href="https://github.com/Chandrakanth10?tab=repositories">
-    <img src="https://img.shields.io/static/v1?label=&message=Repositories&color=111827&style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+    <img src="./assets/button-repositories.svg" alt="GitHub repositories" />
   </a>
 </p>
 
