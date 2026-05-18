@@ -85,30 +85,6 @@ Fundamentals          Data structures, algorithms, Python, and TypeScript
   </tr>
 </table>
 
-### Public Work
-
-<table>
-  <tr>
-    <td width="28%"><a href="https://github.com/Chandrakanth10/portfolio"><strong>portfolio</strong></a></td>
-    <td>Personal portfolio work built with JavaScript, HTML, and CSS.</td>
-    <td>JavaScript</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Chandrakanth10/Coding-Ninjas-Introduction-to-Python"><strong>Coding-Ninjas-Introduction-to-Python</strong></a></td>
-    <td>Python learning archive with course exercises and notebooks.</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Chandrakanth10/DSAlgo"><strong>DSAlgo</strong></a></td>
-    <td>Forked Python data structures and algorithms reference used for study and practice.</td>
-    <td>Python</td>
-  </tr>
-</table>
-
-<p>
-  Recent build work includes private TypeScript, automation, and documentation projects. Public repositories here keep the visible profile clean and verifiable.
-</p>
-
 ### Activity
 
 <p align="center">
