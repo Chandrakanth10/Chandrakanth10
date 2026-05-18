@@ -5,22 +5,22 @@
   />
 </div>
 
-<h1 align="center">Building practical software with a product-minded engineering approach.</h1>
+<h2 align="center">Software developer focused on automation, documentation systems, and developer tools.</h2>
 
 <p align="center">
-  I am a software developer in Tempe, Arizona, focused on Python, TypeScript, automation,
-  documentation systems, and polished web experiences.
+  Based in Tempe, Arizona. I build practical software with Python, TypeScript,
+  clean interfaces, and product-minded engineering habits.
 </p>
 
 <p align="center">
   <a href="mailto:chandrakanthpuligundla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chandrakanthpuligundla%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chandrakanth" />
+    <img src="https://img.shields.io/static/v1?label=&message=Email&color=2563EB&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chandrakanth" />
   </a>
   <a href="https://leetcode.com/chandrakanthpuligundla/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+    <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=F59E0B&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
   </a>
   <a href="https://github.com/Chandrakanth10?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Chandrakanth10-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+    <img src="https://img.shields.io/static/v1?label=&message=Repositories&color=111827&style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 </p>
 
@@ -56,20 +56,34 @@ Developer tools       Workflows that make building and debugging smoother
 Fundamentals          Data structures, algorithms, Python, and TypeScript
 ```
 
-### Toolbox
+### Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-</p>
+<table>
+  <tr>
+    <td width="180"><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Python, TypeScript, JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Next.js, React, Tailwind CSS, HTML, CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Runtime & tooling</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,bun,pnpm,git,github&theme=dark" alt="Node.js, Bun, pnpm, Git, GitHub" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data & delivery</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,cloudflare,playwright,md&theme=dark" alt="MySQL, Cloudflare, Playwright, Markdown" />
+    </td>
+  </tr>
+</table>
 
 ### Public Work
 
