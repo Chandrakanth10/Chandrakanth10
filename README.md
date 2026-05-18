@@ -11,17 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:chandrakanthpuligundla@gmail.com">
-    <img src="./assets/button-email.svg" alt="Email Chandrakanth" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/chandrakanthpuligundla/">
-    <img src="./assets/button-leetcode.svg" alt="LeetCode profile" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Chandrakanth10?tab=repositories">
-    <img src="./assets/button-repositories.svg" alt="GitHub repositories" />
-  </a>
+  <a href="mailto:chandrakanthpuligundla@gmail.com"><img src="./assets/button-email.svg" alt="Email Chandrakanth" /></a>
+  <a href="https://leetcode.com/chandrakanthpuligundla/"><img src="./assets/button-leetcode.svg" alt="LeetCode profile" /></a>
+  <a href="https://github.com/Chandrakanth10?tab=repositories"><img src="./assets/button-repositories.svg" alt="GitHub repositories" /></a>
 </p>
 
 ---
@@ -85,10 +77,14 @@ Fundamentals          Data structures, algorithms, Python, and TypeScript
   </tr>
 </table>
 
-### Activity
+### Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chandrakanth10&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Chandrakanth10&bg_color=0d1117&color=8b949e&line=58a6ff&point=2dd4bf&area_color=1f6feb&title_color=58a6ff&area=true&hide_border=true&hide_title=true&height=260"
+    alt="Chandrakanth GitHub contribution activity graph"
+  />
 </p>
 
 ---
