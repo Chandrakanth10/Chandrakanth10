@@ -1,11 +1,10 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1120,45:2563eb,100:14b8a6&text=Chandrakanth%20Puligundla&fontAlign=50&fontAlignY=37&fontColor=ffffff&fontSize=40&desc=Python%20%7C%20TypeScript%20%7C%20Automation%20%7C%20Developer%20Tools&descAlign=50&descAlignY=60"
+    width="100%"
+    src="./assets/profile-banner.svg"
     alt="Chandrakanth Puligundla - Python, TypeScript, Automation, Developer Tools"
   />
 </div>
-
-<h2 align="center">Software developer focused on automation, documentation systems, and developer tools.</h2>
 
 <p align="center">
   Based in Tempe, Arizona. I build practical software with Python, TypeScript,

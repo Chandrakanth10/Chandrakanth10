@@ -1,0 +1,93 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chandrakanth Puligundla</title>
+  <desc id="desc">Python, TypeScript, automation, and developer tools</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.42" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(310 102) rotate(35) scale(330 170)">
+      <stop stop-color="#60a5fa" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(914 92) rotate(145) scale(360 180)">
+      <stop stop-color="#2dd4bf" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="line" x1="170" y1="245" x2="1030" y2="245" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#38bdf8" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="0.82" stop-color="#5eead4" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softBlur" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+
+    <filter id="textShadow" x="-10%" y="-40%" width="120%" height="180%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#020617" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="26" fill="#020617" opacity="0.12"/>
+  <ellipse cx="300" cy="98" rx="320" ry="135" fill="url(#glowLeft)" filter="url(#softBlur)">
+    <animate attributeName="cx" values="270;330;270" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;0.95;0.75" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="920" cy="100" rx="330" ry="145" fill="url(#glowRight)" filter="url(#softBlur)">
+    <animate attributeName="cx" values="950;875;950" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.85;0.62;0.85" dur="14s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <path d="M0 215C147 178 282 190 405 215C553 245 696 246 850 213C982 185 1095 186 1200 204V300H0V215Z" fill="#020617" opacity="0.34">
+    <animate
+      attributeName="d"
+      dur="13s"
+      repeatCount="indefinite"
+      values="M0 215C147 178 282 190 405 215C553 245 696 246 850 213C982 185 1095 186 1200 204V300H0V215Z;
+              M0 202C138 195 276 205 410 225C548 246 694 236 842 205C988 175 1094 194 1200 219V300H0V202Z;
+              M0 215C147 178 282 190 405 215C553 245 696 246 850 213C982 185 1095 186 1200 204V300H0V215Z"
+    />
+  </path>
+
+  <path d="M0 238C168 206 316 210 462 236C608 262 744 260 900 229C1027 204 1128 211 1200 224V300H0V238Z" fill="#0f172a" opacity="0.45">
+    <animate
+      attributeName="d"
+      dur="10s"
+      repeatCount="indefinite"
+      values="M0 238C168 206 316 210 462 236C608 262 744 260 900 229C1027 204 1128 211 1200 224V300H0V238Z;
+              M0 226C152 217 315 229 472 249C627 269 759 251 905 218C1018 192 1123 205 1200 237V300H0V226Z;
+              M0 238C168 206 316 210 462 236C608 262 744 260 900 229C1027 204 1128 211 1200 224V300H0V238Z"
+    />
+  </path>
+
+  <path d="M174 244C312 224 437 226 561 244C692 263 813 262 947 241" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" opacity="0.85">
+    <animate
+      attributeName="d"
+      dur="9s"
+      repeatCount="indefinite"
+      values="M174 244C312 224 437 226 561 244C692 263 813 262 947 241;
+              M174 235C310 244 435 251 562 235C690 219 815 225 947 248;
+              M174 244C312 224 437 226 561 244C692 263 813 262 947 241"
+    />
+  </path>
+
+  <g filter="url(#textShadow)">
+    <text x="600" y="122" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="800">
+      Chandrakanth Puligundla
+    </text>
+    <text x="600" y="165" text-anchor="middle" dominant-baseline="middle" fill="#dbeafe" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="650">
+      Python | TypeScript | Automation | Developer Tools
+    </text>
+  </g>
+
+  <rect x="410" y="193" width="380" height="1" rx="0.5" fill="url(#line)" opacity="0.85"/>
+</svg>
