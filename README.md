@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://chandrakanth10.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="./assets/button-portfolio.svg" alt="Portfolio website" /></a>
   <a href="mailto:chandrakanthpuligundla@gmail.com"><img src="./assets/button-email.svg" alt="Email Chandrakanth" /></a>
   <a href="https://leetcode.com/chandrakanthpuligundla/"><img src="./assets/button-leetcode.svg" alt="LeetCode profile" /></a>
   <a href="https://github.com/Chandrakanth10?tab=repositories"><img src="./assets/button-repositories.svg" alt="GitHub repositories" /></a>
@@ -94,6 +95,8 @@ Fundamentals          Data structures, algorithms, Python, and TypeScript
 </p>
 
 <p align="center">
+  <a href="https://chandrakanth10.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+  |
   <a href="mailto:chandrakanthpuligundla@gmail.com">Email</a>
   |
   <a href="https://leetcode.com/chandrakanthpuligundla/">LeetCode</a>
